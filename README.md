@@ -27,14 +27,15 @@
 3. Activation Functions, Loss Functions
 4. Optimizers
 
+Go and Learn Live Deep learning (https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
+
+
 ## 4. Advanced NLP Concepts (Day 6 - Last Video) [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ZwYtqTaZ2io&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&index=8)
 1. RNN, LSTM RNN
 2. GRU RNN
 3. Bidirection LSTM RNN
 4. Encoder Decoder, Attention is all you need ,Seq to Seq 
 5. Transformers
-
-Go and Learn Live Deep learning (https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
 
 ## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
 ![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da)
